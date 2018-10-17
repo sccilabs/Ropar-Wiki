@@ -1,0 +1,18 @@
++---------------------------------------------------------------+
+| *************ROPAR WIKI (CSL622)******************************|
+| Report on Wiki Installation                                   |
+| Author : Akshat Rathore                                       |
+| Group members : Aditya Deva, Abhishek Sharma                  |
+|                                                               |
++---------------------------------------------------------------+
+
+* To get a good start into the project, the first task assigned was to learn wiki installtion. This is the report about the same.
+* I'll be using MediaWiki 1.31.1. ("MediaWiki is an extremely powerful, scalable software and a feature-rich wiki implementation that uses PHP to process and display data stored in a database, such as MySQL." - quoted from its website).
+* I already had xampp installed. So I didn't require to install mysql or php separately.
+
+Steps for installing :
+
+* I downloaded MediaWiki
+* Extracted it to ~xampp/htdocs/Ropar-wiki
+* Entered the url - http://localhost/Ropar-Wiki/mediawiki-1.31.1/mw-config/index.php
+* Followed the on-screen instructions and I was done :)
