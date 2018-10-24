@@ -8,3 +8,9 @@ Installed MediaWiki on Windows using following steps:
    Then they prompted to download a file named LocalSettings.php and move it into the mediawiki 
    folder (present in htdocs folder in xampp folder).
 5. MediaWiki was accessible by using the link http://localhost/mediawiki and it was opening the Main wiki page.
+
+
+
+
+
+
